@@ -9,3 +9,10 @@
 - Problem4.java → Count multiples from a list
 
 
+## How to Run
+
+Use any Java IDE or compile with:
+```bash
+javac Problem1.java
+java Problem1
+
